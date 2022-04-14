@@ -1,0 +1,66 @@
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe.config
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.pdb
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.SuggestedBindingRedirects.cache
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.ResolveComReference.cache
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.DangNhap.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.DoanhThu.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.Form1.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.GoiMon.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.Properties.Resources.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.QuanLySanPham.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.GenerateResource.cache
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.CoreCompileInputs.cache
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.exe
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.pdb
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\EPPlus.dll
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\System.ComponentModel.Annotations.dll
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\EPPlus.xml
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.CopyComplete
+D:\QuanLyNhanVien\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.AssemblyReference.cache
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe.config
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.pdb
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\bin\Debug\EPPlus.dll
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\bin\Debug\System.ComponentModel.Annotations.dll
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\bin\Debug\EPPlus.xml
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.SuggestedBindingRedirects.cache
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.ResolveComReference.cache
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.DangNhap.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.DoanhThu.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.Form1.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.GoiMon.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.Properties.Resources.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.QuanLySanPham.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.GenerateResource.cache
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.CoreCompileInputs.cache
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.CopyComplete
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.exe
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.pdb
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.AssemblyReference.cache
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe.config
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.pdb
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\bin\Debug\EPPlus.dll
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\bin\Debug\System.ComponentModel.Annotations.dll
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\bin\Debug\EPPlus.xml
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.AssemblyReference.cache
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.SuggestedBindingRedirects.cache
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.ResolveComReference.cache
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.DangNhap.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.DoanhThu.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.Form1.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.GoiMon.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.Properties.Resources.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.QuanLySanPham.resources
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.GenerateResource.cache
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.CoreCompileInputs.cache
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.CopyComplete
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.exe
+D:\QuanLyNhanVien\QuanLyQuanCaFe - Copy - Copy\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.pdb
